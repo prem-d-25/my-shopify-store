@@ -1,4 +1,4 @@
-# ROLEMET - AI Resume Strength Analyzer
+#  Stylzzy - E-Commerce Website
 
 A responsive React.js frontend for a Shopify-based e-commerce platform featuring dynamic product grids, category filtering, and seamless user experience for sneakers, bags, and accessories.
 
